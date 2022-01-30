@@ -1,7 +1,7 @@
 pipeline {
   agent any
   stages {
-    stage('Start') {
+    stage('Build') {
       steps {
         sh 'echo "Something changed in repo"'
       }
