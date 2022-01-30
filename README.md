@@ -1,2 +1,2 @@
 # DevOpsFP2
-EPAM_DevOPs_FP2
+This project is "Final Project #2"
