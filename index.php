@@ -30,7 +30,7 @@ else
     </section>
 
     <section class="instructions">
-        <h2>What's Next? New!!!!!!!</h2>
+        <h2>What's Next? New!!121212!!!!12121212!</h2>
         <ul>
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/">AWS Elastic Beanstalk overview</a></li>
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_PHP_eb.html">Deploying AWS Elastic Beanstalk Applications in PHP Using Eb and Git</a></li>
