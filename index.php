@@ -30,20 +30,19 @@ else
     </section>
 
     <section class="instructions">
-        <h2>What's Next? </h2>
+        <h2>Technologies and instruments </h2>
         <ul>
-            <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/">AWS Elastic Beanstalk overview</a></li>
-            <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_PHP_eb.html">Deploying AWS Elastic Beanstalk Applications in PHP Using Eb and Git</a></li>
-            <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_PHP.rds.html">Using Amazon RDS with PHP</a>
-            <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/customize-containers-ec2.html">Customizing the Software on EC2 Instances</a></li>
-            <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/customize-containers-resources.html">Customizing Environment Resources</a></li>
+            <li>NAT (Mikrotik)</li>
+            <li>Proxmox</li>
+            <li>Docker</li>
+            <li>Jenkins</li>
+            <li>AWS Elastic Beanstalk</li>
+            <li>Zabbix</li>
         </ul>
 
-        <h2>AWS SDK for PHP</h2>
+        <h2>Previous version</h2>
         <ul>
-            <li><a href="http://aws.amazon.com/sdkforphp">AWS SDK for PHP home</a></li>
-            <li><a href="http://aws.amazon.com/php">PHP developer center</a></li>
-            <li><a href="https://github.com/aws/aws-sdk-php">AWS SDK for PHP on GitHub</a></li>
+            <li>AWS Elastic Beanstalk + AWS pipeline</li>
         </ul>
     </section>
 
