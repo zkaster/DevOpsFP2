@@ -32,12 +32,12 @@ else
     <section class="instructions">
         <h2>Technologies and instruments </h2>
         <ul>
-            <li>NAT (Mikrotik)</li>
-            <li>Proxmox</li>
-            <li>Docker</li>
-            <li>Jenkins</li>
-            <li>AWS Elastic Beanstalk</li>
-            <li>Zabbix</li>
+            <li> NAT (Mikrotik)</li>
+            <li> Proxmox</li>
+            <li> Docker</li>
+            <li> Jenkins</li>
+            <li> AWS Elastic Beanstalk</li>
+            <li> Zabbix</li>
         </ul>
 
         <h2>Previous version</h2>
