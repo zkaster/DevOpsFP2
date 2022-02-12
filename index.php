@@ -24,7 +24,7 @@ else
 <body>
     <section class="congratulations">
         <h1>EPAM DevOps courses. Yevhen Ryndych (aka zkaster)</h1>
-        <p>This is project created with Proxmox + Jenkins + AWS Elastic Beanstalk + Zabbix + Docker+ Jenkins email notification <br> <em>PHP</em> application is now running on own dedicated environment in the AWS&nbsp;Cloud</p>
+        <p>This is project created with Proxmox + Jenkins + AWS Elastic Beanstalk + Zabbix + Docker+ Jenkins email notification via gmail<br> <em>PHP</em> application is now running on own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>Project is running PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
     </section>
